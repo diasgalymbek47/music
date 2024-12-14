@@ -154,6 +154,13 @@
         "src": "https://diasgalymbek47.github.io/music/audio/RaiM-Lova Lo.mp3"
     },
     {
+        "id": 23,
+        "name": "DOOM Eternal - New Updated Main Theme",
+        "artist": "Robert Prince",
+        "img": "https://diasgalymbek47.github.io/music/img/doom.gif",
+        "src": "https://diasgalymbek47.github.io/music/audio/doom.m4a"
+    },
+    {
         "id": 24,
         "name": "Ne Kerek",
         "artist": "6ELLUCCI, Qiyal Darian",
@@ -201,5 +208,12 @@
         "artist": "Дора",
         "img": "https://diasgalymbek47.github.io/music/img/Втюрилась - Дора.jpg",
         "src": "https://diasgalymbek47.github.io/music/audio/дора-Втюрилась.mp3"
+    },
+    {
+        "id": 31,
+        "name": "Styles of Beyond",
+        "artist": "Julius",
+        "img": "https://diasgalymbek47.github.io/music/img/nfs.jpeg",
+        "src": "https://diasgalymbek47.github.io/music/audio/nfs.m4a"
     }
 ]
