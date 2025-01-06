@@ -1,219 +1,464 @@
 [
-    {
-        "id": 1,
-        "name": "Outside",
-        "artist": "Kilian K, Robbe, DJSM",
-        "img": "https://diasgalymbek47.github.io/music/img/Outside - Kilian K, Robbe, DJSM.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Kilian K, Robbe  DJSM-Outside.mp3"
-    },
-    {
-        "id": 2,
-        "name": "Paper Planes",
-        "artist": "M.I.A.",
-        "img": "https://diasgalymbek47.github.io/music/img/Paper Planes - M.I.A._11zon.webp",
-        "src": "https://diasgalymbek47.github.io/music/audio/M.I.A.-Paper Planes.mp3"
-    },
-    {
-        "id": 3,
-        "name": "Nightmare",
-        "artist": "NEFFEX",
-        "img": "https://diasgalymbek47.github.io/music/img/Nightmare - NEFFEX.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/NEFFEX-Nightmare.mp3"
-    },
-    {
-        "id": 4,
-        "name": "La La La",
-        "artist": "ONEIL, Miscris",
-        "img": "https://diasgalymbek47.github.io/music/img/La La La - ONEIL, Miscris.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/ONEIL, Miscris-La La La.mp3"
-    },
-    {
-        "id": 5,
-        "name": "Malibu",
-        "artist": "Flowerovlove",
-        "img": "https://diasgalymbek47.github.io/music/img/Malibu - Flowerovlove.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Flowerovlove-Malibu.mp3"
-    },
-    {
-        "id": 6,
-        "name": "Neverland",
-        "artist": "dododowson, Bir kyz",
-        "img": "https://diasgalymbek47.github.io/music/img/Neverland - dododowson, Bir kyz.jpeg",
-        "src": "https://diasgalymbek47.github.io/music/audio/dododowson, Bir kyz-Neverland.mp3"
-    },
-    {
-        "id": 7,
-        "name": "Выше",
-        "artist": "Konfuz",
-        "img": "https://diasgalymbek47.github.io/music/img/Выше - Konfuz.jpeg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Konfuz-Выше.mp3"
-    },
-    {
-        "id": 8,
-        "name": "Сердце пацана",
-        "artist": "YARMAK",
-        "img": "https://diasgalymbek47.github.io/music/img/Сердце пацана - YARMAK.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/ЯрмаК-Сердце пацана.mp3"
-    },
-    {
-        "id": 9,
-        "name": "К дому",
-        "artist": "Кепоут",
-        "img": "https://diasgalymbek47.github.io/music/img/К дому - Кепоут.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Кепоут-К дому.mp3"
-    },
-    {
-        "id": 10,
-        "name": "Fight Back",
-        "artist": "NEFFEX",
-        "img": "https://diasgalymbek47.github.io/music/img/Fight Back - NEFFEX.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/NEFFEX-Fight Back.mp3"
-    },
-    {
-        "id": 11,
-        "name": "カワキヲアメク(声嘶力竭)",
-        "artist": "念白",
-        "img": "https://diasgalymbek47.github.io/music/img/カワキヲアメク(声嘶力竭) - 念白.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/念白-カワキヲアメク(声嘶力竭).mp3"
-    },
-    {
-        "id": 12,
-        "name": "Latte",
-        "artist": "RaiM, Artur",
-        "img": "https://diasgalymbek47.github.io/music/img/Latte - RaiM, Artur.png",
-        "src": "https://diasgalymbek47.github.io/music/audio/Raim, Artur-Latte.mp3"
-    },
-    {
-        "id": 13,
-        "name": "Птицей стать",
-        "artist": "Galust",
-        "img": "https://diasgalymbek47.github.io/music/img/Птицей стать - Galust.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Galust-Птицей стать.mp3"
-    },
-    {
-        "id": 14,
-        "name": "Papaoutai",
-        "artist": "Stromae",
-        "img": "https://diasgalymbek47.github.io/music/img/Papaoutai - Stromae.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Stromae-Papaoutai.mp3"
-    },
-    {
-        "id": 15,
-        "name": "Skinny Dip (Komodo)",
-        "artist": "Deepend, Philip Strand",
-        "img": "https://diasgalymbek47.github.io/music/img/Skinny Dip (Komodo) - Deepend, Philip Strand.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Deepend_feat_Philip_Strand_Skinny_Dip_Komodo_feat_Philip_Str.mp3"
-    },
-    {
-        "id": 16,
-        "name": "Tokyo by Night",
-        "artist": "Coopex, Yohan Gerber, Nito-Onna",
-        "img": "https://diasgalymbek47.github.io/music/img/Tokyo by Night - Coopex, Yohan Gerber, Nito-Onna.jpeg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Coopex, Yohan Gerber, Nito-Onna-Tokyo By Night (Muzlike.net).mp3"
-    },
-    {
-        "id": 17,
-        "name": "Stumblin' In",
-        "artist": "Chris Norman, Suzi Quatro",
-        "img": "https://diasgalymbek47.github.io/music/img/Stumblin' In - Chris Norman, Suzi Quatro_11zon.webp",
-        "src": "https://diasgalymbek47.github.io/music/audio/Stumblin' In - Chris Norman, Suzi Quatro.mp3"
-    },
-    {
-        "id": 18,
-        "name": "No More Drama",
-        "artist": "Charlie Puth",
-        "img": "https://diasgalymbek47.github.io/music/img/No More Drama - Charlie Puth.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Charlie Puth mp3xa.cc-No More Drama.mp3"
-    },
-    {
-        "id": 19,
-        "name": "Wait a Minute!",
-        "artist": "WILLOW",
-        "img": "https://diasgalymbek47.github.io/music/img/Wait a Minute! - WILLOW_11zon.webp",
-        "src": "https://diasgalymbek47.github.io/music/audio/Willow - Wait a Minute!.mp3"
-    },
-    {
-        "id": 20,
-        "name": "Habits (Nightcore)",
-        "artist": "Syrex",
-        "img": "https://diasgalymbek47.github.io/music/img/Habits (Nightcore) - Syrex.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Syrex-Nightcore - Habits (Stay High) (Arcando feat. Lunis).mp3"
-    },
-    {
-        "id": 21,
-        "name": "Because I'm Happy",
-        "artist": "Wild Because I",
-        "img": "https://diasgalymbek47.github.io/music/img/Because I'm Happy - Wild Because I.jpeg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Power_Music_Workout-Because_Im_Happy.mp3"
-    },
-    {
-        "id": 22,
-        "name": "Lova Lo",
-        "artist": "RaiM",
-        "img": "https://diasgalymbek47.github.io/music/img/Lova Lo - RaiM.jpeg",
-        "src": "https://diasgalymbek47.github.io/music/audio/RaiM-Lova Lo.mp3"
-    },
-    {
-        "id": 23,
-        "name": "DOOM Eternal - New Updated Main Theme",
-        "artist": "Robert Prince",
-        "img": "https://diasgalymbek47.github.io/music/img/doom.gif",
-        "src": "https://diasgalymbek47.github.io/music/audio/doom.m4a"
-    },
-    {
-        "id": 24,
-        "name": "Ne Kerek",
-        "artist": "6ELLUCCI, Qiyal Darian",
-        "img": "https://diasgalymbek47.github.io/music/img/Ne Kerek - 6ELLUCCI, Qiyal Darian.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/6ELLUCCI feat. Qiyal Darian-Ne Kerek.mp3"
-    },
-    {
-        "id": 25,
-        "name": "DOP",
-        "artist": "Yenlik",
-        "img": "https://diasgalymbek47.github.io/music/img/DOP - Yenlik.jpeg",
-        "src": "https://diasgalymbek47.github.io/music/audio/DOP - Yenlik.mp3"
-    },
-    {
-        "id": 26,
-        "name": "Zhol",
-        "artist": "Argonya, Айкын Толепберген, Tural Everest",
-        "img": "https://diasgalymbek47.github.io/music/img/Zhol - Argonya, Айкын Толепберген, Tural Everest.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Argonya_feat_Айкын_Толепберген,_Tural_Everest_Zhol.mp3"
-    },
-    {
-        "id": 27,
-        "name": "Kõk tu",
-        "artist": "Ирина Кайратовна, Shiza",
-        "img": "https://diasgalymbek47.github.io/music/img/Kõk tu - Ирина Кайратовна, Shiza.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Ирина Кайратовна, Shiza-Kõk tu.mp3"
-    },
-    {
-        "id": 28,
-        "name": "Вороны",
-        "artist": "Xcho",
-        "img": "https://diasgalymbek47.github.io/music/img/Вороны - Xcho.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Вороны - Xcho.mp3"
-    },
-    {
-        "id": 29,
-        "name": "создавай Remix",
-        "artist": "MARIANA, MODERN CLVB",
-        "img": "https://diasgalymbek47.github.io/music/img/создавай Remix - MARIANA, MODERN CLVB.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/Mariana, MODERN CLVB-создавай (Remix).mp3"
-    },
-    {
-        "id": 30,
-        "name": "Втюрилась",
-        "artist": "Дора",
-        "img": "https://diasgalymbek47.github.io/music/img/Втюрилась - Дора.jpg",
-        "src": "https://diasgalymbek47.github.io/music/audio/дора-Втюрилась.mp3"
-    },
-    {
-        "id": 31,
-        "name": "Styles of Beyond",
-        "artist": "Julius",
-        "img": "https://diasgalymbek47.github.io/music/img/nfs.jpeg",
-        "src": "https://diasgalymbek47.github.io/music/audio/nfs.m4a"
-    }
+  {
+    "id": 1,
+    "name": "Kuiim",
+    "artist": "ALEM",
+    "img": "https://diasgalymbek47.github.io/music/img/ALEM Kuiim.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/ALEM Kuiim.mp3"
+  },
+  {
+    "id": 2,
+    "name": "Sigma Boy",
+    "artist": "Betsy",
+    "img": "https://diasgalymbek47.github.io/music/img/Betsy Sigma Boy.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Betsy Sigma Boy.mp3"
+  },
+  {
+    "id": 3,
+    "name": "lacure dal solay",
+    "artist": "De",
+    "img": "https://diasgalymbek47.github.io/music/img/De lacure dal solay.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/De lacure dal solay.mp3"
+  },
+  {
+    "id": 4,
+    "name": "Dogs Tateler",
+    "artist": "Ghetto",
+    "img": "https://diasgalymbek47.github.io/music/img/Ghetto Dogs Tateler.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Ghetto Dogs Tateler.mp3"
+  },
+  {
+    "id": 5,
+    "name": "Achanst",
+    "artist": "Jakone",
+    "img": "https://diasgalymbek47.github.io/music/img/Jakone Achanst.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Jakone Асфальт.mp3"
+  },
+  {
+    "id": 6,
+    "name": "& Ganja Tun",
+    "artist": "Jamal",
+    "img": "https://diasgalymbek47.github.io/music/img/Jamal & Ganja Tun.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Jamal & Ganja Tun.mp3"
+  },
+  {
+    "id": 7,
+    "name": "apure KeHwtaM YBeTEI",
+    "artist": "Jazzdauren",
+    "img": "https://diasgalymbek47.github.io/music/img/Jazzdauren apure KeHwtaM YBeTEI.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Jazzdauren Дарите женщинам цветы.mp3"
+  },
+  {
+    "id": 8,
+    "name": "Nurtas Kasak Keignapei",
+    "artist": "Kairat",
+    "img": "https://diasgalymbek47.github.io/music/img/Kairat Nurtas Kasak Keignapei.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Kairat Nurtas Қазақ Қыздары.mp3"
+  },
+  {
+    "id": 9,
+    "name": "Qymbattym",
+    "artist": "Kalifarniya",
+    "img": "https://diasgalymbek47.github.io/music/img/Kalifarniya Qymbattym.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Kalifarniya Qymbattym.mp3"
+  },
+  {
+    "id": 10,
+    "name": "Kuraiysh Bakprrbiyne! TaGaceik",
+    "artist": "Kazybek",
+    "img": "https://diasgalymbek47.github.io/music/img/Kazybek Kuraiysh Bakprrbiyne! TaGaceik.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Kazybek Kuraiysh Бақытыңды табасың.mp3"
+  },
+  {
+    "id": 11,
+    "name": "IVL",
+    "artist": "MACAN",
+    "img": "https://diasgalymbek47.github.io/music/img/MACAN IVL.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/MACAN IVL.mp3"
+  },
+  {
+    "id": 12,
+    "name": "Kak je",
+    "artist": "MACAN",
+    "img": "https://diasgalymbek47.github.io/music/img/MACAN Kak je.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/MACAN Как je.mp3"
+  },
+  {
+    "id": 13,
+    "name": "Miller Bam Bam",
+    "artist": "Misha",
+    "img": "https://diasgalymbek47.github.io/music/img/Misha Miller Bam Bam.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Misha Miller Bam Bam.mp3"
+  },
+  {
+    "id": 14,
+    "name": "& quinine | Got Love",
+    "artist": "Miyagi",
+    "img": "https://diasgalymbek47.github.io/music/img/Miyagi & quinine Got Love.png",
+    "src": "https://diasgalymbek47.github.io/music/audio/Miyagi & Эндшпиль I Got Love.mp3"
+  },
+  {
+    "id": 15,
+    "name": "DAO",
+    "artist": "Miyagi",
+    "img": "https://diasgalymbek47.github.io/music/img/Miyagi DAO.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Miyagi DAO.mp3"
+  },
+  {
+    "id": 16,
+    "name": "Fopoa aopor",
+    "artist": "MONA",
+    "img": "https://diasgalymbek47.github.io/music/img/MONA Fopoa aopor.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/MONA Город дорог.mp3"
+  },
+  {
+    "id": 17,
+    "name": "Ecenmt",
+    "artist": "Navai",
+    "img": "https://diasgalymbek47.github.io/music/img/Navai Ecenmt.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Navai Есенин.mp3"
+  },
+  {
+    "id": 18,
+    "name": "APT.",
+    "artist": "Rosé",
+    "img": "https://diasgalymbek47.github.io/music/img/Rosé APT.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Rosé APT..mp3"
+  },
+  {
+    "id": 19,
+    "name": "Zergarii istadim",
+    "artist": "Roza",
+    "img": "https://diasgalymbek47.github.io/music/img/Roza Zergarii istadim.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Roza Zərgərli İstədim.mp3"
+  },
+  {
+    "id": 20,
+    "name": "Aq koilek",
+    "artist": "Sadraddin",
+    "img": "https://diasgalymbek47.github.io/music/img/Sadraddin Aq koilek.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Sadraddin Aq koilek.mp3"
+  },
+  {
+    "id": 21,
+    "name": "Jauap bar ma_63",
+    "artist": "Sadraddin",
+    "img": "https://diasgalymbek47.github.io/music/img/Sadraddin Jauap bar ma_63.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Sadraddin Jauap bar ma_63.mp3"
+  },
+  {
+    "id": 22,
+    "name": "Melodrama",
+    "artist": "Sadraddin",
+    "img": "https://diasgalymbek47.github.io/music/img/Sadraddin Melodrama.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Sadraddin Melodrama.mp3"
+  },
+  {
+    "id": 23,
+    "name": "Taxi",
+    "artist": "Sadraddin",
+    "img": "https://diasgalymbek47.github.io/music/img/Sadraddin Taxi.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Sadraddin Taxi.mp3"
+  },
+  {
+    "id": 24,
+    "name": "Adresov Axrensckme rnasa",
+    "artist": "The",
+    "img": "https://diasgalymbek47.github.io/music/img/The Adresov Axrensckme rnasa.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/The Adresov Ангельские глаза.mp3"
+  },
+  {
+    "id": 25,
+    "name": "Adresov rpom u rposa",
+    "artist": "The",
+    "img": "https://diasgalymbek47.github.io/music/img/The Adresov rpom u rposa.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/The Adresov Гром и гроза.mp3"
+  },
+  {
+    "id": 26,
+    "name": "Manet Ha saetpa",
+    "artist": "TIGO",
+    "img": "https://diasgalymbek47.github.io/music/img/TIGO Manet Ha saetpa.jpg,",
+    "src": "https://diasgalymbek47.github.io/music/audio/TIGO Планы на завтра.mp3"
+  },
+  {
+    "id": 27,
+    "name": "Bannana",
+    "artist": "Xcho",
+    "img": "https://diasgalymbek47.github.io/music/img/Xcho Bannana.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Xcho Баллада.mp3"
+  },
+  {
+    "id": 28,
+    "name": "Fonoca",
+    "artist": "Zvonkiy",
+    "img": "https://diasgalymbek47.github.io/music/img/Zvonkiy Fonoca.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Zvonkiy Голоса.mp3"
+  },
+  {
+    "id": 29,
+    "name": "1s oxo#",
+    "artist": "Zvonkiy",
+    "img": "https://diasgalymbek47.github.io/music/img/Zvonkiy 1s oxo#.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Zvonkiy Из окон.mp3"
+  },
+  {
+    "id": 30,
+    "name": "A Haliay Te6a vepes Bexa",
+    "artist": "Bacta",
+    "img": "https://diasgalymbek47.github.io/music/img/Bacta A Haliay Te6a vepes Bexa.png",
+    "src": "https://diasgalymbek47.github.io/music/audio/Баста Я найду тебя через века.mp3"
+  },
+  {
+    "id": 31,
+    "name": "Xyau",
+    "artist": "Axwran",
+    "img": "https://diasgalymbek47.github.io/music/img/Axwran Xyau.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Джиган Худи.mp3"
+  },
+  {
+    "id": 32,
+    "name": "Tpodumos Noesna",
+    "artist": "Kens",
+    "img": "https://diasgalymbek47.github.io/music/img/Kens Tpodumos Noesna.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Женя Трофимов Поезда.mp3"
+  },
+  {
+    "id": 33,
+    "name": "Kaipatosta Aimaxap",
+    "artist": "Vipmiia",
+    "img": "https://diasgalymbek47.github.io/music/img/Vipmiia Kaipatosta Aimaxap.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Ирина Кайратовна Айдахар.mp3"
+  },
+  {
+    "id": 34,
+    "name": "Kyptykosa Maryuika",
+    "artist": "Tareata",
+    "img": "https://diasgalymbek47.github.io/music/img/Татьяна Куртукова Матушка.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Татьяна Куртукова Матушка.mp3"
+  },
+  {
+    "id": 35,
+    "name": "Untouchable",
+    "artist": "Miyagi & Эндшпиль",
+    "img": "https://diasgalymbek47.github.io/music/img/Miyagi & Эндшпиль Untouchable.png",
+    "src": "https://diasgalymbek47.github.io/music/audio/Miyagi & Эндшпиль Untouchable.mp3"
+  },
+  {
+    "id": 36,
+    "name": "Outside",
+    "artist": "Kilian K, Robbe, DJSM",
+    "img": "https://diasgalymbek47.github.io/music/img/Outside - Kilian K, Robbe, DJSM.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Kilian K, Robbe  DJSM-Outside.mp3"
+  },
+  {
+    "id": 37,
+    "name": "Paper Planes",
+    "artist": "M.I.A.",
+    "img": "https://diasgalymbek47.github.io/music/img/Paper Planes - M.I.A._11zon.webp",
+    "src": "https://diasgalymbek47.github.io/music/audio/M.I.A.-Paper Planes.mp3"
+  },
+  {
+    "id": 38,
+    "name": "Nightmare",
+    "artist": "NEFFEX",
+    "img": "https://diasgalymbek47.github.io/music/img/Nightmare - NEFFEX.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/NEFFEX-Nightmare.mp3"
+  },
+  {
+    "id": 39,
+    "name": "La La La",
+    "artist": "ONEIL, Miscris",
+    "img": "https://diasgalymbek47.github.io/music/img/La La La - ONEIL, Miscris.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/ONEIL, Miscris-La La La.mp3"
+  },
+  {
+    "id": 40,
+    "name": "Malibu",
+    "artist": "Flowerovlove",
+    "img": "https://diasgalymbek47.github.io/music/img/Malibu - Flowerovlove.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Flowerovlove-Malibu.mp3"
+  },
+  {
+    "id": 41,
+    "name": "Neverland",
+    "artist": "dododowson, Bir kyz",
+    "img": "https://diasgalymbek47.github.io/music/img/Neverland - dododowson, Bir kyz.jpeg",
+    "src": "https://diasgalymbek47.github.io/music/audio/dododowson, Bir kyz-Neverland.mp3"
+  },
+  {
+    "id": 42,
+    "name": "Выше",
+    "artist": "Konfuz",
+    "img": "https://diasgalymbek47.github.io/music/img/Выше - Konfuz.jpeg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Konfuz-Выше.mp3"
+  },
+  {
+    "id": 43,
+    "name": "Сердце пацана",
+    "artist": "YARMAK",
+    "img": "https://diasgalymbek47.github.io/music/img/Сердце пацана - YARMAK.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/ЯрмаК-Сердце пацана.mp3"
+  },
+  {
+    "id": 44,
+    "name": "К дому",
+    "artist": "Кепоут",
+    "img": "https://diasgalymbek47.github.io/music/img/К дому - Кепоут.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Кепоут-К дому.mp3"
+  },
+  {
+    "id": 45,
+    "name": "Fight Back",
+    "artist": "NEFFEX",
+    "img": "https://diasgalymbek47.github.io/music/img/Fight Back - NEFFEX.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/NEFFEX-Fight Back.mp3"
+  },
+  {
+    "id": 46,
+    "name": "カワキヲアメク(声嘶力竭)",
+    "artist": "念白",
+    "img": "https://diasgalymbek47.github.io/music/img/カワキヲアメク(声嘶力竭) - 念白.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/念白-カワキヲアメク(声嘶力竭).mp3"
+  },
+  {
+    "id": 47,
+    "name": "Latte",
+    "artist": "RaiM, Artur",
+    "img": "https://diasgalymbek47.github.io/music/img/Latte - RaiM, Artur.png",
+    "src": "https://diasgalymbek47.github.io/music/audio/Raim, Artur-Latte.mp3"
+  },
+  {
+    "id": 48,
+    "name": "Птицей стать",
+    "artist": "Galust",
+    "img": "https://diasgalymbek47.github.io/music/img/Птицей стать - Galust.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Galust-Птицей стать.mp3"
+  },
+  {
+    "id": 49,
+    "name": "Papaoutai",
+    "artist": "Stromae",
+    "img": "https://diasgalymbek47.github.io/music/img/Papaoutai - Stromae.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Stromae-Papaoutai.mp3"
+  },
+  {
+    "id": 50,
+    "name": "Skinny Dip (Komodo)",
+    "artist": "Deepend, Philip Strand",
+    "img": "https://diasgalymbek47.github.io/music/img/Skinny Dip (Komodo) - Deepend, Philip Strand.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Deepend_feat_Philip_Strand_Skinny_Dip_Komodo_feat_Philip_Str.mp3"
+  },
+  {
+    "id": 51,
+    "name": "Tokyo by Night",
+    "artist": "Coopex, Yohan Gerber, Nito-Onna",
+    "img": "https://diasgalymbek47.github.io/music/img/Tokyo by Night - Coopex, Yohan Gerber, Nito-Onna.jpeg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Coopex, Yohan Gerber, Nito-Onna-Tokyo By Night (Muzlike.net).mp3"
+  },
+  {
+    "id": 52,
+    "name": "Stumblin' In",
+    "artist": "Chris Norman, Suzi Quatro",
+    "img": "https://diasgalymbek47.github.io/music/img/Stumblin' In - Chris Norman, Suzi Quatro_11zon.webp",
+    "src": "https://diasgalymbek47.github.io/music/audio/Stumblin' In - Chris Norman, Suzi Quatro.mp3"
+  },
+  {
+    "id": 53,
+    "name": "No More Drama",
+    "artist": "Charlie Puth",
+    "img": "https://diasgalymbek47.github.io/music/img/No More Drama - Charlie Puth.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Charlie Puth mp3xa.cc-No More Drama.mp3"
+  },
+  {
+    "id": 54,
+    "name": "Wait a Minute!",
+    "artist": "WILLOW",
+    "img": "https://diasgalymbek47.github.io/music/img/Wait a Minute! - WILLOW_11zon.webp",
+    "src": "https://diasgalymbek47.github.io/music/audio/Willow - Wait a Minute!.mp3"
+  },
+  {
+    "id": 55,
+    "name": "Habits (Nightcore)",
+    "artist": "Syrex",
+    "img": "https://diasgalymbek47.github.io/music/img/Habits (Nightcore) - Syrex.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Syrex-Nightcore - Habits (Stay High) (Arcando feat. Lunis).mp3"
+  },
+  {
+    "id": 56,
+    "name": "Because I'm Happy",
+    "artist": "Wild Because I",
+    "img": "https://diasgalymbek47.github.io/music/img/Because I'm Happy - Wild Because I.jpeg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Power_Music_Workout-Because_Im_Happy.mp3"
+  },
+  {
+    "id": 57,
+    "name": "Lova Lo",
+    "artist": "RaiM",
+    "img": "https://diasgalymbek47.github.io/music/img/Lova Lo - RaiM.jpeg",
+    "src": "https://diasgalymbek47.github.io/music/audio/RaiM-Lova Lo.mp3"
+  },
+  {
+    "id": 58,
+    "name": "DOOM Eternal - New Updated Main Theme",
+    "artist": "Robert Prince",
+    "img": "https://diasgalymbek47.github.io/music/img/doom.gif",
+    "src": "https://diasgalymbek47.github.io/music/audio/doom.m4a"
+  },
+  {
+    "id": 59,
+    "name": "Ne Kerek",
+    "artist": "6ELLUCCI, Qiyal Darian",
+    "img": "https://diasgalymbek47.github.io/music/img/Ne Kerek - 6ELLUCCI, Qiyal Darian.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/6ELLUCCI feat. Qiyal Darian-Ne Kerek.mp3"
+  },
+  {
+    "id": 60,
+    "name": "DOP",
+    "artist": "Yenlik",
+    "img": "https://diasgalymbek47.github.io/music/img/DOP - Yenlik.jpeg",
+    "src": "https://diasgalymbek47.github.io/music/audio/DOP - Yenlik.mp3"
+  },
+  {
+    "id": 61,
+    "name": "Zhol",
+    "artist": "Argonya, Айкын Толепберген, Tural Everest",
+    "img": "https://diasgalymbek47.github.io/music/img/Zhol - Argonya, Айкын Толепберген, Tural Everest.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Argonya_feat_Айкын_Толепберген,_Tural_Everest_Zhol.mp3"
+  },
+  {
+    "id": 62,
+    "name": "Kõk tu",
+    "artist": "Ирина Кайратовна, Shiza",
+    "img": "https://diasgalymbek47.github.io/music/img/Kõk tu - Ирина Кайратовна, Shiza.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Ирина Кайратовна, Shiza-Kõk tu.mp3"
+  },
+  {
+    "id": 63,
+    "name": "Вороны",
+    "artist": "Xcho",
+    "img": "https://diasgalymbek47.github.io/music/img/Вороны - Xcho.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Вороны - Xcho.mp3"
+  },
+  {
+    "id": 64,
+    "name": "создавай Remix",
+    "artist": "MARIANA, MODERN CLVB",
+    "img": "https://diasgalymbek47.github.io/music/img/создавай Remix - MARIANA, MODERN CLVB.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/Mariana, MODERN CLVB-создавай (Remix).mp3"
+  },
+  {
+    "id": 65,
+    "name": "Втюрилась",
+    "artist": "Дора",
+    "img": "https://diasgalymbek47.github.io/music/img/Втюрилась - Дора.jpg",
+    "src": "https://diasgalymbek47.github.io/music/audio/дора-Втюрилась.mp3"
+  },
+  {
+    "id": 67,
+    "name": "Styles of Beyond",
+    "artist": "Julius",
+    "img": "https://diasgalymbek47.github.io/music/img/nfs.jpeg",
+    "src": "https://diasgalymbek47.github.io/music/audio/nfs.m4a"
+  }
 ]
